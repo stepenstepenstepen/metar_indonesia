@@ -90,10 +90,10 @@ def parseMetarSpeci(soup: BeautifulSoup):
             
             for number in reversed (range (int(page))):
                 ms.updateParams("pn", number)                                       
-                createPageResult()
-                fetchData()
+                soup = createPageResult()
+                fetchData(soup)
         else:
-            fetchData()
+            fetchData(soup)
             
         print(template, f"{items}: FETCH    | {current_date.strftime('%d/%m/%Y')}", end='\r')
         time.sleep(.5)
@@ -103,7 +103,7 @@ def parseMetarSpeci(soup: BeautifulSoup):
         time.sleep(.5)
 
 # fetching contents #
-def fetchData():
+def fetchData(soup:BeautifulSoup):
     fetch_date = current_date.strftime("%d-%b-%Y")
 
     r_result=[]
