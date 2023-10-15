@@ -1,0 +1,6357 @@
+[
+  {
+    "ICAO": "WITT",
+    "Name": "Sultan Iskandar Muda Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N5°31.02' / E95°25.20'",
+    "Elevation": "69.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "N5°32.34' / E95°25.03'",
+            "Elevation": "65",
+            "RunwayHeading": "169°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "N5°30.75' / E95°25.35'",
+            "Elevation": "69",
+            "RunwayHeading": "349°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WITN",
+    "Name": "Sabang / Maimun Saleh Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N5°52.58' / E95°20.25'",
+    "Elevation": "433.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "6070 x 98 feet / 1850 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "N5°52.55' / E95°19.87'",
+            "Elevation": "433",
+            "RunwayHeading": "098°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "N5°52.42' / E95°20.86'",
+            "Elevation": "360",
+            "RunwayHeading": "278°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WITL",
+    "Name": "Airport Point A Lhoksukon Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N5°4.38' / E97°15.32'",
+    "Elevation": "28.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WITK",
+    "Name": "Takengon / Rembele Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N4°43.40' / E96°50.88'",
+    "Elevation": "4631.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "7382 x 98 feet / 2250 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N4°43.26' / E96°50.28'",
+            "Elevation": "4599",
+            "RunwayHeading": "090°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N4°43.27' / E96°51.50'",
+            "Elevation": "4631",
+            "RunwayHeading": "270°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WITC",
+    "Name": "Cut Nyak Dien Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N4°2.88' / E96°15.00'",
+    "Elevation": "7.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "N4°2.82' / E96°14.88'",
+            "Elevation": "6",
+            "RunwayHeading": "139°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "N4°2.09' / E96°15.52'",
+            "Elevation": "6",
+            "RunwayHeading": "319°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMU",
+    "Name": "Kuta Cane / Alas Lauser Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°23.23' / E97°52.17'",
+    "Elevation": "296.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIMT",
+    "Name": "Tapaktuan / Teuku Cut Ali Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°10.25' / E97°17.32'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "3871 x 98 feet / 1180 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "N3°10.40' / E97°17.08'",
+            "Elevation": "9",
+            "RunwayHeading": "140°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "N3°9.92' / E97°17.50'",
+            "Elevation": "9",
+            "RunwayHeading": "320°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIML",
+    "Name": "Sinabang/Lasikin Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°24.53' / E96°19.57'",
+    "Elevation": "18.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "5610 x 98 feet / 1710 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "N2°24.50' / E96°19.23'",
+            "Elevation": "12",
+            "RunwayHeading": "068°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "N2°24.86' / E96°20.09'",
+            "Elevation": "18",
+            "RunwayHeading": "248°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMA",
+    "Name": "Malikussaleh Airport",
+    "Province": "Aceh",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N5°13.73' / E96°57.08'",
+    "Elevation": "90.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "5626 x 98 feet / 1715 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "N5°13.37' / E96°56.57'",
+            "Elevation": "90",
+            "RunwayHeading": "059°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "N5°13.84' / E96°57.37'",
+            "Elevation": "90",
+            "RunwayHeading": "239°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WADE",
+    "Name": "Buleleng / Letkol Wisnu Airport",
+    "Province": "Bali",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°8.42' / E114°37.30'",
+    "Elevation": "16.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WADD",
+    "Name": "Bali / I Gusti Ngurah Rai International Airport",
+    "Province": "Bali",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°44.85' / E115°10.15'",
+    "Elevation": "14.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S8°44.94' / E115°9.23'",
+            "Elevation": "11",
+            "RunwayHeading": "087°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S8°44.87' / E115°10.86'",
+            "Elevation": "12",
+            "RunwayHeading": "267°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIKT",
+    "Name": "H.A.S. Hanandjoeddin Airport",
+    "Province": "Bangka-Belitung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°44.72' / E107°45.18'",
+    "Elevation": "176.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "S2°43.97' / E107°45.23'",
+            "Elevation": "176",
+            "RunwayHeading": "175°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "S2°45.32' / E107°45.32'",
+            "Elevation": "152",
+            "RunwayHeading": "355°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIKK",
+    "Name": "Depati Amir Airport",
+    "Province": "Bangka-Belitung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°9.75' / E106°8.28'",
+    "Elevation": "108.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S2°9.08' / E106°8.16'",
+            "Elevation": "86",
+            "RunwayHeading": "165°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S2°10.25' / E106°8.48'",
+            "Elevation": "108",
+            "RunwayHeading": "345°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIRR",
+    "Name": "Tangerang/Budiarto Airport",
+    "Province": "Banten",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°17.60' / E106°34.08'",
+    "Elevation": "140.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "5981 x 148 feet / 1823 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S6°17.28' / E106°33.65'",
+            "Elevation": "134",
+            "RunwayHeading": "119°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S6°17.77' / E106°34.51'",
+            "Elevation": "140",
+            "RunwayHeading": "299°"
+          }
+        ]
+      },
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "5249 x 148 feet / 1600 x 45 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S6°17.71' / E106°34.07'",
+            "Elevation": "136",
+            "RunwayHeading": "043°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S6°17.09' / E106°34.67'",
+            "Elevation": "125",
+            "RunwayHeading": "223°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIII",
+    "Name": "Jakarta International/Soekarno Hatta Airport",
+    "Province": "Banten",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°7.42' / E106°39.67'",
+    "Elevation": "34.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07R/25L",
+        "Dimensions": "12008 x 197 feet / 3660 x 60 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07R",
+            "Coordinates": "S6°8.55' / E106°38.62'",
+            "Elevation": "34",
+            "RunwayHeading": "067°"
+          },
+          {
+            "Path": "Runway 25L",
+            "Coordinates": "S6°7.82' / E106°40.46'",
+            "Elevation": "27",
+            "RunwayHeading": "247°"
+          }
+        ]
+      },
+      {
+        "Name": "Runway 07L/25R",
+        "Dimensions": "11811 x 197 feet / 3600 x 60 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 07L",
+            "Coordinates": "S6°7.26' / E106°38.33'",
+            "Elevation": "29",
+            "RunwayHeading": "067°"
+          },
+          {
+            "Path": "Runway 25R",
+            "Coordinates": "S6°6.54' / E106°40.14'",
+            "Elevation": "21",
+            "RunwayHeading": "247°"
+          }
+        ]
+      },
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "9843 x 197 feet / 3000 x 60 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S6°6.83' / E106°38.68'",
+            "Elevation": "29",
+            "RunwayHeading": "067°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S6°6.23' / E106°40.19'",
+            "Elevation": "19",
+            "RunwayHeading": "247°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIHP",
+    "Name": "South Tangerang/Pondok Cabe Airport",
+    "Province": "Banten",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°20.17' / E106°45.88'",
+    "Elevation": "221.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "6562 x 148 feet / 2000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "S6°19.68' / E106°45.91'",
+            "Elevation": "209",
+            "RunwayHeading": "183°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "S6°20.77' / E106°45.84'",
+            "Elevation": "221",
+            "RunwayHeading": "003°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIHI",
+    "Name": "Salakanagara Tanjun Lesung Airport",
+    "Province": "Banten",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°29.58' / E105°39.93'",
+    "Elevation": "19.0 feet MSL",
+    "AirportUse": "Private",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "1969 x 49 feet / 600 x 15 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S6°29.55' / E105°40.01'",
+            "Elevation": "3",
+            "RunwayHeading": "070°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S6°29.44' / E105°40.32'",
+            "Elevation": "19",
+            "RunwayHeading": "250°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIGM",
+    "Name": "Muko-Muko Airport",
+    "Province": "Bengkulu",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°32.47' / E101°5.32'",
+    "Elevation": "16.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S2°32.18' / E101°4.99'",
+            "Elevation": "14",
+            "RunwayHeading": "137°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S2°32.73' / E101°5.51'",
+            "Elevation": "17",
+            "RunwayHeading": "317°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIGG",
+    "Name": "Bengkulu / Fatmawati Soekarno Airport",
+    "Province": "Bengkulu",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°51.67' / E102°20.37'",
+    "Elevation": "74.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S3°51.42' / E102°19.91'",
+            "Elevation": "74",
+            "RunwayHeading": "133°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S3°52.25' / E102°20.79'",
+            "Elevation": "71",
+            "RunwayHeading": "313°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIGE",
+    "Name": "Enggano Airport",
+    "Province": "Bengkulu",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°18.12' / E102°10.98'",
+    "Elevation": "47.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "4265 x 75 feet / 1300 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S5°18.12' / E102°10.98'",
+            "Elevation": "47",
+            "RunwayHeading": "120°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S5°18.46' / E102°11.60'",
+            "Elevation": "47",
+            "RunwayHeading": "300°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAMG",
+    "Name": "Gorontalo / Djalaluddin Airport",
+    "Province": "Gorontalo",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°38.28' / E122°51.13'",
+    "Elevation": "125.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N0°38.32' / E122°50.28'",
+            "Elevation": "125",
+            "RunwayHeading": "097°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N0°38.14' / E122°51.62'",
+            "Elevation": "88",
+            "RunwayHeading": "277°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAUU",
+    "Name": "Rendani Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°53.63' / E134°3.02'",
+    "Elevation": "36.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "6562 x 148 feet / 2000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S0°52.97' / E134°2.91'",
+            "Elevation": "36",
+            "RunwayHeading": "177°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S0°54.06' / E134°2.95'",
+            "Elevation": "26",
+            "RunwayHeading": "357°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAUM",
+    "Name": "Merdey Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°35.48' / E133°17.75'",
+    "Elevation": "385.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "1969 x 75 feet / 600 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S1°35.45' / E133°17.59'",
+            "Elevation": "385",
+            "RunwayHeading": "092°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S1°35.47' / E133°17.92'",
+            "Elevation": "375",
+            "RunwayHeading": "272°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAUK",
+    "Name": "Kebar Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°48.58' / E133°3.32'",
+    "Elevation": "1360.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "2625 x 59 feet / 800 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S0°48.65' / E133°3.50'",
+            "Elevation": "1360",
+            "RunwayHeading": "095°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S0°48.60' / E133°3.08'",
+            "Elevation": "1360",
+            "RunwayHeading": "275°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAUB",
+    "Name": "Bintuni Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°6.05' / E133°30.82'",
+    "Elevation": "51.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2723 x 72 feet / 830 x 22 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S2°6.00' / E133°30.82'",
+            "Elevation": "51",
+            "RunwayHeading": "134°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S2°6.33' / E133°31.13'",
+            "Elevation": "41",
+            "RunwayHeading": "314°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASU",
+    "Name": "Kambuaya/Ayamaru Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°19.10' / E132°16.95'",
+    "Elevation": "1391.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S1°19.14' / E132°16.92'",
+            "Elevation": "1384",
+            "RunwayHeading": "065°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S1°18.87' / E132°17.51'",
+            "Elevation": "1391",
+            "RunwayHeading": "245°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAST",
+    "Name": "Teminabuan Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°26.73' / E132°1.23'",
+    "Elevation": "147.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2625 x 75 feet / 800 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S1°26.58' / E132°1.10'",
+            "Elevation": "143",
+            "RunwayHeading": "128°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S1°26.86' / E132°1.43'",
+            "Elevation": "147",
+            "RunwayHeading": "308°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASS",
+    "Name": "Domine Eduard Osok Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°53.50' / E131°17.22'",
+    "Elevation": "17.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S0°53.60' / E131°16.66'",
+            "Elevation": "17",
+            "RunwayHeading": "093°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S0°53.69' / E131°18.01'",
+            "Elevation": "16",
+            "RunwayHeading": "273°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASO",
+    "Name": "Irarutu/Babo Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°32.12' / E133°26.33'",
+    "Elevation": "46.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "4265 x 98 feet / 1300 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S2°32.25' / E133°26.20'",
+            "Elevation": "46",
+            "RunwayHeading": "021°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S2°31.60' / E133°26.47'",
+            "Elevation": "46",
+            "RunwayHeading": "201°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASN",
+    "Name": "Marinda Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°25.92' / E130°46.32'",
+    "Elevation": "98.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "4396 x 98 feet / 1340 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "S0°25.20' / E130°46.43'",
+            "Elevation": "98",
+            "RunwayHeading": "184°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "S0°25.91' / E130°46.37'",
+            "Elevation": "46",
+            "RunwayHeading": "004°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASK",
+    "Name": "Kaimana Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°38.68' / E133°41.73'",
+    "Elevation": "14.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 01/19",
+        "Dimensions": "6562 x 98 feet / 2000 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 01",
+            "Coordinates": "S3°39.20' / E133°41.61'",
+            "Elevation": "10",
+            "RunwayHeading": "009°"
+          },
+          {
+            "Path": "Runway 19",
+            "Coordinates": "S3°38.13' / E133°41.81'",
+            "Elevation": "14",
+            "RunwayHeading": "189°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASI",
+    "Name": "Inanwatan Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°7.60' / E132°9.78'",
+    "Elevation": "36.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "2316 x 75 feet / 706 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S2°7.66' / E132°9.41'",
+            "Elevation": "36",
+            "RunwayHeading": "085°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S2°7.63' / E132°9.79'",
+            "Elevation": "36",
+            "RunwayHeading": "265°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASF",
+    "Name": "Torea Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°55.17' / E132°15.85'",
+    "Elevation": "426.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S2°55.19' / E132°15.70'",
+            "Elevation": "426",
+            "RunwayHeading": "096°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S2°55.27' / E132°16.35'",
+            "Elevation": "410",
+            "RunwayHeading": "276°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WASA",
+    "Name": "Maybrat / Ayawasi Airport",
+    "Province": "Irian Jaya Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°9.58' / E132°27.92'",
+    "Elevation": "1525.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "2838 x 75 feet / 865 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S1°9.55' / E132°27.63'",
+            "Elevation": "1525",
+            "RunwayHeading": "098°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S1°9.62' / E132°28.09'",
+            "Elevation": "1524",
+            "RunwayHeading": "278°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIHH",
+    "Name": "Jakarta / Halim Perdanakusuma Airport",
+    "Province": "Jakarta Raya",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°16.05' / E106°53.18'",
+    "Elevation": "84.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S6°16.34' / E106°52.73'",
+            "Elevation": "79",
+            "RunwayHeading": "065°",
+            "DisplacedThreshold": ""
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S6°15.70' / E106°54.11'",
+            "Elevation": "84",
+            "RunwayHeading": "245°",
+            "DisplacedThreshold": "656 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIHG",
+    "Name": "Pulau Panjang Airport",
+    "Province": "Jakarta Raya",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°38.67' / E106°33.75'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIHC",
+    "Name": "Wiladatika Airport",
+    "Province": "Jakarta Raya",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°21.42' / E106°53.82'",
+    "Elevation": "210.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "2493 x 66 feet / 760 x 20 meters",
+        "Surface": "Soft",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S6°21.38' / E106°53.87'",
+            "Elevation": "197",
+            "RunwayHeading": "092°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S6°21.40' / E106°54.27'",
+            "Elevation": "210",
+            "RunwayHeading": "272°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIPI",
+    "Name": "Muara Bungo / Pasir Mayang Airport",
+    "Province": "Jambi",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°8.00' / E102°9.00'",
+    "Elevation": "138.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIJJ",
+    "Name": "Sultan Thaha Airport",
+    "Province": "Jambi",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°38.13' / E103°38.58'",
+    "Elevation": "92.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "8537 x 148 feet / 2602 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S1°37.94' / E103°38.24'",
+            "Elevation": "92",
+            "RunwayHeading": "129°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S1°38.84' / E103°39.33'",
+            "Elevation": "63",
+            "RunwayHeading": "309°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIJI",
+    "Name": "Depati Parbo Airport",
+    "Province": "Jambi",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°5.77' / E101°28.27'",
+    "Elevation": "2607.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S2°5.41' / E101°27.77'",
+            "Elevation": "2607",
+            "RunwayHeading": "118°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S2°5.86' / E101°28.63'",
+            "Elevation": "2600",
+            "RunwayHeading": "298°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIJB",
+    "Name": "Muara Bungo Airport",
+    "Province": "Jambi",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°32.60' / E102°10.72'",
+    "Elevation": "195.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S1°32.20' / E102°10.50'",
+            "Elevation": "167",
+            "RunwayHeading": "126°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S1°32.78' / E102°11.28'",
+            "Elevation": "195",
+            "RunwayHeading": "306°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIHK",
+    "Name": "Kalijati Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°31.88' / E107°39.57'",
+    "Elevation": "361.0 feet MSL",
+    "AirportUse": "Military"
+  },
+  {
+    "ICAO": "WIHJ",
+    "Name": "Atang Sendjaja Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°32.65' / E106°45.25'",
+    "Elevation": "538.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WICN",
+    "Name": "Nusawiru Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°42.23' / E108°29.35'",
+    "Elevation": "16.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S7°43.31' / E108°28.97'",
+            "Elevation": "16",
+            "RunwayHeading": "071°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S7°43.08' / E108°29.70'",
+            "Elevation": "13",
+            "RunwayHeading": "251°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WICM",
+    "Name": "Wiriadinata Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°20.53' / E108°14.90'",
+    "Elevation": "1110.0 feet MSL",
+    "AirportUse": "Military"
+  },
+  {
+    "ICAO": "WICK",
+    "Name": "Margahayu Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°58.45' / E107°34.35'",
+    "Elevation": "2200.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WICD",
+    "Name": "Cirebon / Cakrabhuwana Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°45.38' / E108°32.30'",
+    "Elevation": "90.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "4199 x 98 feet / 1280 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S6°45.68' / E108°32.11'",
+            "Elevation": "90",
+            "RunwayHeading": "040°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S6°45.15' / E108°32.56'",
+            "Elevation": "65",
+            "RunwayHeading": "220°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WICC",
+    "Name": "Husein Sastranegara-Bandung Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°54.12' / E107°34.57'",
+    "Elevation": "2445.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "7283 x 148 feet / 2220 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S6°53.84' / E107°34.00'",
+            "Elevation": "2445",
+            "RunwayHeading": "108°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S6°54.23' / E107°35.14'",
+            "Elevation": "2406",
+            "RunwayHeading": "288°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WICA",
+    "Name": "Majalengka / Kertajati International Airport",
+    "Province": "Jawa Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°38.90' / E108°9.25'",
+    "Elevation": "134.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "9843 x 197 feet / 3000 x 60 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S6°38.22' / E108°9.41'",
+            "Elevation": "128",
+            "RunwayHeading": "139°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S6°39.47' / E108°10.46'",
+            "Elevation": "134",
+            "RunwayHeading": "319°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARC",
+    "Name": "Blora/Ngloram Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°11.65' / E111°32.83'",
+    "Elevation": "141.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S7°11.78' / E111°32.31'",
+            "Elevation": "137",
+            "RunwayHeading": "082°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S7°11.68' / E111°33.12'",
+            "Elevation": "125",
+            "RunwayHeading": "262°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHU",
+    "Name": "Dewadaru Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°48.07' / E110°28.67'",
+    "Elevation": "15.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAHS",
+    "Name": "Jenderal Ahmad Yani International Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°58.58' / E110°22.63'",
+    "Elevation": "11.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "8399 x 148 feet / 2560 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S6°57.74' / E110°21.80'",
+            "Elevation": "11",
+            "RunwayHeading": "129°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S6°58.64' / E110°22.86'",
+            "Elevation": "9",
+            "RunwayHeading": "309°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHQ",
+    "Name": "Solo/Adi Soemarmo Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°30.82' / E110°45.03'",
+    "Elevation": "418.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S7°31.11' / E110°44.79'",
+            "Elevation": "418",
+            "RunwayHeading": "076°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S7°30.81' / E110°46.12'",
+            "Elevation": "380",
+            "RunwayHeading": "256°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHP",
+    "Name": "Jenderal Besar Soedirman Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°27.75' / E109°25.30'",
+    "Elevation": "160.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S7°27.57' / E109°24.43'",
+            "Elevation": "142",
+            "RunwayHeading": "103°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S7°27.78' / E109°25.27'",
+            "Elevation": "160",
+            "RunwayHeading": "283°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHL",
+    "Name": "Cilacap / Tunggul Wulung Airport",
+    "Province": "Jawa Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°38.67' / E109°2.08'",
+    "Elevation": "84.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S7°38.44' / E109°1.76'",
+            "Elevation": "84",
+            "RunwayHeading": "132°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S7°38.96' / E109°2.32'",
+            "Elevation": "61",
+            "RunwayHeading": "312°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARW",
+    "Name": "Gresik / Bawean Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°43.42' / E112°40.60'",
+    "Elevation": "180.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "3051 x 75 feet / 930 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S5°43.41' / E112°40.49'",
+            "Elevation": "130",
+            "RunwayHeading": "090°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S5°43.42' / E112°41.01'",
+            "Elevation": "180",
+            "RunwayHeading": "270°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WART",
+    "Name": "Trunojoyo Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°1.42' / E113°53.45'",
+    "Elevation": "20.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S7°1.09' / E113°52.90'",
+            "Elevation": "20",
+            "RunwayHeading": "125°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S7°1.59' / E113°53.61'",
+            "Elevation": "9",
+            "RunwayHeading": "305°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARR",
+    "Name": "Juanda Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°22.85' / E112°47.18'",
+    "Elevation": "11.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S7°22.66' / E112°46.41'",
+            "Elevation": "11",
+            "RunwayHeading": "098°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S7°22.92' / E112°48.02'",
+            "Elevation": "8",
+            "RunwayHeading": "278°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARP",
+    "Name": "Pulau Pagerungan Besar / Pager Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°57.40' / E115°55.95'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WARI",
+    "Name": "Madiun/Iswahyudi Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°36.95' / E111°26.04'",
+    "Elevation": "361.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17R/35L",
+        "Dimensions": "10030 x 186 feet / 3057 x 57 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17R",
+            "Coordinates": "S7°36.19' / E111°25.94'",
+            "Elevation": "361",
+            "RunwayHeading": "175°"
+          },
+          {
+            "Path": "Runway 35L",
+            "Coordinates": "S7°37.84' / E111°26.05'",
+            "Elevation": "361",
+            "RunwayHeading": "355°"
+          }
+        ]
+      },
+      {
+        "Name": "Runway 17L/35R",
+        "Dimensions": "8448 x 92 feet / 2575 x 28 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 17L",
+            "Coordinates": "S7°36.26' / E111°26.04'",
+            "Elevation": "361",
+            "RunwayHeading": "175°",
+            "DisplacedThreshold": "435 Feet"
+          },
+          {
+            "Path": "Runway 35R",
+            "Coordinates": "S7°37.49' / E111°26.12'",
+            "Elevation": "361",
+            "RunwayHeading": "355°",
+            "DisplacedThreshold": "516 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARE",
+    "Name": "Noto Hadinegoro Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°14.60' / E113°41.77'",
+    "Elevation": "264.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "5397 x 98 feet / 1645 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S8°14.94' / E113°41.52'",
+            "Elevation": "252",
+            "RunwayHeading": "013°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S8°14.07' / E113°41.73'",
+            "Elevation": "264",
+            "RunwayHeading": "193°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WARA",
+    "Name": "Abdul Rachman Saleh Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°55.77' / E112°42.72'",
+    "Elevation": "1729.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "8202 x 131 feet / 2500 x 40 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S7°55.09' / E112°42.70'",
+            "Elevation": "1729",
+            "RunwayHeading": "165°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S7°56.40' / E112°43.02'",
+            "Elevation": "1712",
+            "RunwayHeading": "345°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WADY",
+    "Name": "Banyuwangi Airport",
+    "Province": "Jawa Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°18.63' / E114°20.42'",
+    "Elevation": "124.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "8038 x 148 feet / 2450 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S8°18.71' / E114°19.72'",
+            "Elevation": "124",
+            "RunwayHeading": "080°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S8°18.51' / E114°21.04'",
+            "Elevation": "53",
+            "RunwayHeading": "260°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WISA",
+    "Name": "Singkawang / Smart Semelagi Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°0.03' / E109°2.78'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "2592 x 59 feet / 790 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "N0°59.95' / E109°2.91'",
+            "Elevation": "10",
+            "RunwayHeading": "108°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "N0°59.82' / E109°3.32'",
+            "Elevation": "8",
+            "RunwayHeading": "288°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIOS",
+    "Name": "Tebelian Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°2.50' / E111°27.38'",
+    "Elevation": "97.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "5971 x 98 feet / 1820 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S0°2.71' / E111°26.92'",
+            "Elevation": "87",
+            "RunwayHeading": "090°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S0°2.71' / E111°27.90'",
+            "Elevation": "97",
+            "RunwayHeading": "270°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIOP",
+    "Name": "Pangsuma Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°50.30' / E112°56.13'",
+    "Elevation": "110.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "N0°50.21' / E112°55.96'",
+            "Elevation": "108",
+            "RunwayHeading": "106°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "N0°49.93' / E112°56.90'",
+            "Elevation": "110",
+            "RunwayHeading": "286°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIOO",
+    "Name": "Supadio Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°8.73' / E109°24.22'",
+    "Elevation": "12.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S0°8.48' / E109°24.00'",
+            "Elevation": "11",
+            "RunwayHeading": "157°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S0°9.61' / E109°24.46'",
+            "Elevation": "12",
+            "RunwayHeading": "337°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIOK",
+    "Name": "Ketapang/Rahadi Oesman Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°48.97' / E109°57.72'",
+    "Elevation": "15.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S1°48.64' / E109°57.75'",
+            "Elevation": "15",
+            "RunwayHeading": "169°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S1°49.39' / E109°57.86'",
+            "Elevation": "14",
+            "RunwayHeading": "349°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIOI",
+    "Name": "Singkawang II / Sanggoledo Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°5.05' / E109°41.70'",
+    "Elevation": "55.0 feet MSL",
+    "AirportUse": "Private"
+  },
+  {
+    "ICAO": "WIOG",
+    "Name": "Nanga Pinoh Airport",
+    "Province": "Kalimantan Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°20.88' / E111°45.02'",
+    "Elevation": "132.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAOO",
+    "Name": "Banjarmasin / Syamsudin Noor Airport",
+    "Province": "Kalimantan Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°26.38' / E114°45.17'",
+    "Elevation": "66.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S3°26.42' / E114°45.09'",
+            "Elevation": "54",
+            "RunwayHeading": "099°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S3°26.66' / E114°46.42'",
+            "Elevation": "66",
+            "RunwayHeading": "279°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAON",
+    "Name": "Warukin Airport",
+    "Province": "Kalimantan Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°12.77' / E115°26.55'",
+    "Elevation": "187.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S2°13.18' / E115°25.85'",
+            "Elevation": "159",
+            "RunwayHeading": "059°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S2°12.81' / E115°26.51'",
+            "Elevation": "187",
+            "RunwayHeading": "239°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAOK",
+    "Name": "Gusti Sjamsir Alam Airport",
+    "Province": "Kalimantan Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°17.70' / E116°9.95'",
+    "Elevation": "12.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S3°17.25' / E116°9.66'",
+            "Elevation": "8",
+            "RunwayHeading": "158°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S3°18.09' / E116°9.99'",
+            "Elevation": "12",
+            "RunwayHeading": "338°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAOC",
+    "Name": "Batulicin/Bersujud Airport",
+    "Province": "Kalimantan Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°24.80' / E116°0.05'",
+    "Elevation": "20.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "5906 x 148 feet / 1800 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S3°24.74' / E115°59.23'",
+            "Elevation": "16",
+            "RunwayHeading": "091°",
+            "DisplacedThreshold": ""
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S3°24.77' / E116°0.12'",
+            "Elevation": "20",
+            "RunwayHeading": "271°",
+            "DisplacedThreshold": "492 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGS",
+    "Name": "H. Asan Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°30.08' / E112°58.53'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "6759 x 98 feet / 2060 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S2°29.53' / E112°58.04'",
+            "Elevation": "24",
+            "RunwayHeading": "131°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S2°30.29' / E112°58.86'",
+            "Elevation": "11",
+            "RunwayHeading": "311°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGP",
+    "Name": "Purukcahu Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°41.35' / E114°26.70'",
+    "Elevation": "442.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAGM",
+    "Name": "Sanggu Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°40.15' / E114°53.63'",
+    "Elevation": "23.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAGK",
+    "Name": "Beringin Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°56.42' / E114°53.63'",
+    "Elevation": "127.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2953 x 75 feet / 900 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S0°56.37' / E114°53.44'",
+            "Elevation": "127",
+            "RunwayHeading": "130°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S0°56.69' / E114°53.81'",
+            "Elevation": "127",
+            "RunwayHeading": "310°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGI",
+    "Name": "Iskandar Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°42.25' / E111°40.23'",
+    "Elevation": "78.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "6955 x 148 feet / 2120 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S2°41.93' / E111°39.98'",
+            "Elevation": "78",
+            "RunwayHeading": "131°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S2°42.71' / E111°40.83'",
+            "Elevation": "76",
+            "RunwayHeading": "311°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGG",
+    "Name": "Tjilik Riwut Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°13.60' / E113°56.67'",
+    "Elevation": "40.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S2°13.02' / E113°56.37'",
+            "Elevation": "40",
+            "RunwayHeading": "158°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S2°14.29' / E113°56.85'",
+            "Elevation": "39",
+            "RunwayHeading": "338°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGF",
+    "Name": "Kota Waringin Timur Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°22.68' / E112°32.50'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S3°22.50' / E112°31.87'",
+            "Elevation": "13",
+            "RunwayHeading": "100°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S3°22.63' / E112°32.51'",
+            "Elevation": "13",
+            "RunwayHeading": "280°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGB",
+    "Name": "Haji Muhammad Sidik Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°1.32' / E114°55.58'",
+    "Elevation": "145.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S1°1.27' / E114°55.47'",
+            "Elevation": "135",
+            "RunwayHeading": "136°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S1°1.82' / E114°55.99'",
+            "Elevation": "145",
+            "RunwayHeading": "316°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAGA",
+    "Name": "Kuala Kurun Airport",
+    "Province": "Kalimantan Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°7.58' / E113°52.48'",
+    "Elevation": "115.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "S1°7.93' / E113°52.13'",
+            "Elevation": "112",
+            "RunwayHeading": "052°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "S1°7.54' / E113°52.64'",
+            "Elevation": "115",
+            "RunwayHeading": "232°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAQT",
+    "Name": "Tanjung Redeb / Kalimarau Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°9.22' / E117°25.87'",
+    "Elevation": "33.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 01/19",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 01",
+            "Coordinates": "N2°8.27' / E117°25.70'",
+            "Elevation": "33",
+            "RunwayHeading": "014°"
+          },
+          {
+            "Path": "Runway 19",
+            "Coordinates": "N2°9.47' / E117°25.99'",
+            "Elevation": "16",
+            "RunwayHeading": "194°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAQQ",
+    "Name": "Juwata Int Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°19.60' / E117°34.17'",
+    "Elevation": "40.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "N3°19.19' / E117°33.34'",
+            "Elevation": "23",
+            "RunwayHeading": "058°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "N3°19.83' / E117°34.37'",
+            "Elevation": "40",
+            "RunwayHeading": "238°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAQM",
+    "Name": "Malinau / Seluwing Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°34.62' / E116°37.05'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAQL",
+    "Name": "Long Apung Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°42.33' / E114°58.28'",
+    "Elevation": "2437.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAQK",
+    "Name": "Mangkajang Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°0.30' / E117°44.52'",
+    "Elevation": "47.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAQJ",
+    "Name": "Yuvai Semaring Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°53.00' / E115°42.00'",
+    "Elevation": "2540.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAQD",
+    "Name": "Tanjung Selor /Tanjung Harapan Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°50.25' / E117°22.40'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "N2°49.90' / E117°22.26'",
+            "Elevation": "14",
+            "RunwayHeading": "028°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "N2°50.66' / E117°22.68'",
+            "Elevation": "20",
+            "RunwayHeading": "209°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAQC",
+    "Name": "Berau/Maratua Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°12.20' / E118°35.55'",
+    "Elevation": "43.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "N2°12.13' / E118°35.63'",
+            "Elevation": "43",
+            "RunwayHeading": "130°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "N2°11.56' / E118°36.29'",
+            "Elevation": "43",
+            "RunwayHeading": "310°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAQA",
+    "Name": "Nunukan Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N4°8.00' / E117°40.00'",
+    "Elevation": "46.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "4757 x 98 feet / 1450 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "N4°8.30' / E117°39.88'",
+            "Elevation": "40",
+            "RunwayHeading": "132°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "N4°7.77' / E117°40.47'",
+            "Elevation": "42",
+            "RunwayHeading": "312°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALT",
+    "Name": "Tanjung Santan Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°5.53' / E117°26.38'",
+    "Elevation": "121.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WALS",
+    "Name": "Aji Pangeran Tumenggung Pran. Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°22.53' / E117°15.08'",
+    "Elevation": "73.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S0°22.89' / E117°14.55'",
+            "Elevation": "73",
+            "RunwayHeading": "044°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S0°22.02' / E117°15.40'",
+            "Elevation": "73",
+            "RunwayHeading": "224°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALQ",
+    "Name": "Pujungan Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°18.33' / E117°24.92'",
+    "Elevation": "48.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 01/19",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 01",
+            "Coordinates": "S0°18.68' / E117°24.89'",
+            "Elevation": "48",
+            "RunwayHeading": "009°"
+          },
+          {
+            "Path": "Runway 19",
+            "Coordinates": "S0°18.03' / E117°24.99'",
+            "Elevation": "48",
+            "RunwayHeading": "189°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALL",
+    "Name": "Sultan Aji Muhammad Sulaiman Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°16.05' / E116°53.63'",
+    "Elevation": "12.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S1°16.36' / E116°53.05'",
+            "Elevation": "12",
+            "RunwayHeading": "067°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S1°15.83' / E116°54.29'",
+            "Elevation": "12",
+            "RunwayHeading": "247°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALJ",
+    "Name": "Datah Dawai Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°48.47' / E114°31.77'",
+    "Elevation": "514.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "2838 x 75 feet / 865 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "N0°48.22' / E114°31.67'",
+            "Elevation": "514",
+            "RunwayHeading": "019°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "N0°48.66' / E114°31.83'",
+            "Elevation": "514",
+            "RunwayHeading": "199°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALE",
+    "Name": "Kutai Barat/Melalan Melak Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°12.35' / E115°45.63'",
+    "Elevation": "314.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "3773 x 98 feet / 1150 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S0°12.51' / E115°45.44'",
+            "Elevation": "313",
+            "RunwayHeading": "029°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S0°11.96' / E115°45.74'",
+            "Elevation": "314",
+            "RunwayHeading": "209°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WALC",
+    "Name": "Bontang/Lng Badak Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°7.17' / E117°28.48'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WALB",
+    "Name": "Tanjung Bara Airport",
+    "Province": "Kalimantan Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°33.68' / E117°38.70'",
+    "Elevation": "50.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "2625 x 59 feet / 800 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "N0°33.45' / E117°38.52'",
+            "Elevation": "50",
+            "RunwayHeading": "041°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "N0°33.80' / E117°38.78'",
+            "Elevation": "38",
+            "RunwayHeading": "221°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIDT",
+    "Name": "Raja Haji Abdullah Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°3.00' / E103°23.00'",
+    "Elevation": "16.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N1°3.20' / E103°23.12'",
+            "Elevation": "16",
+            "RunwayHeading": "093°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N1°3.15' / E103°23.87'",
+            "Elevation": "16",
+            "RunwayHeading": "273°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIDS",
+    "Name": "Dabo Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°28.70' / E104°34.65'",
+    "Elevation": "95.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "3839 x 98 feet / 1170 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S0°28.49' / E104°34.54'",
+            "Elevation": "95",
+            "RunwayHeading": "143°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S0°28.98' / E104°34.94'",
+            "Elevation": "95",
+            "RunwayHeading": "323°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIDO",
+    "Name": "Ranai Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°54.37' / E108°23.28'",
+    "Elevation": "7.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIDN",
+    "Name": "Raja Haji Fisabilillah Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°55.13' / E104°31.62'",
+    "Elevation": "90.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "N0°55.00' / E104°31.59'",
+            "Elevation": "38",
+            "RunwayHeading": "042°",
+            "DisplacedThreshold": ""
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "N0°55.81' / E104°32.35'",
+            "Elevation": "78",
+            "RunwayHeading": "222°",
+            "DisplacedThreshold": "1476 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIDM",
+    "Name": "Matak Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°20.82' / E106°15.50'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIDL",
+    "Name": "Anambas Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°57.77' / E105°44.98'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIDD",
+    "Name": "Batam / Hang Nadim Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°7.12' / E104°6.83'",
+    "Elevation": "128.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "13205 x 148 feet / 4025 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "N1°6.44' / E104°6.41'",
+            "Elevation": "128",
+            "RunwayHeading": "042°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "N1°8.07' / E104°7.85'",
+            "Elevation": "69",
+            "RunwayHeading": "222°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIDB",
+    "Name": "Kepulauan Riau / Tambelan Airport",
+    "Province": "Kepulauan Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°58.53' / E107°33.70'",
+    "Elevation": "19.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIPO",
+    "Name": "Way Kanan/Gatot Subroto Airport",
+    "Province": "Lampung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°23.63' / E104°24.17'",
+    "Elevation": "350.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "6890 x 131 feet / 2100 x 40 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S4°24.01' / E104°23.80'",
+            "Elevation": "348",
+            "RunwayHeading": "029°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S4°23.01' / E104°24.35'",
+            "Elevation": "348",
+            "RunwayHeading": "209°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WILP",
+    "Name": "Muhammad Taufik Kiemas Airport",
+    "Province": "Lampung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°12.70' / E103°56.37'",
+    "Elevation": "118.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "4265 x 98 feet / 1300 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S5°12.50' / E103°55.89'",
+            "Elevation": "115",
+            "RunwayHeading": "118°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S5°12.84' / E103°56.51'",
+            "Elevation": "118",
+            "RunwayHeading": "298°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WILM",
+    "Name": "Astra Ksetra Airport",
+    "Province": "Lampung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°36.68' / E105°13.93'",
+    "Elevation": "63.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WILL",
+    "Name": "Radin Inten II Airport",
+    "Province": "Lampung",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°14.43' / E105°10.53'",
+    "Elevation": "273.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "9088 x 148 feet / 2770 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S5°14.25' / E105°10.49'",
+            "Elevation": "273",
+            "RunwayHeading": "140°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S5°15.39' / E105°11.46'",
+            "Elevation": "262",
+            "RunwayHeading": "320°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPV",
+    "Name": "Wahai Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°48.67' / E129°29.10'",
+    "Elevation": "551.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "2461 x 75 feet / 750 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "S2°48.82' / E129°28.88'",
+            "Elevation": "551",
+            "RunwayHeading": "048°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "S2°48.56' / E129°29.18'",
+            "Elevation": "541",
+            "RunwayHeading": "228°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPU",
+    "Name": "Seram Bagian Timur / Kufar Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°27.80' / E130°47.27'",
+    "Elevation": "19.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPS",
+    "Name": "Saumlaki / Mathilda Batlayeri Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°50.88' / E131°20.08'",
+    "Elevation": "446.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "6562 x 148 feet / 2000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S7°50.67' / E131°19.75'",
+            "Elevation": "425",
+            "RunwayHeading": "114°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S7°51.14' / E131°20.73'",
+            "Elevation": "446",
+            "RunwayHeading": "294°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPP",
+    "Name": "Ambon / Pattimura Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°42.45' / E128°5.37'",
+    "Elevation": "62.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S3°43.10' / E128°4.90'",
+            "Elevation": "29",
+            "RunwayHeading": "044°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S3°42.14' / E128°5.86'",
+            "Elevation": "39",
+            "RunwayHeading": "224°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPO",
+    "Name": "Larat / Larat Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°7.68' / E131°46.02'",
+    "Elevation": "42.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPN",
+    "Name": "Namniwel Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°8.62' / E126°58.58'",
+    "Elevation": "7.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S3°8.45' / E126°58.19'",
+            "Elevation": "6",
+            "RunwayHeading": "108°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S3°8.73' / E126°59.01'",
+            "Elevation": "7",
+            "RunwayHeading": "288°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPM",
+    "Name": "Jos Orno Imsula Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°8.35' / E127°54.20'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPL",
+    "Name": "Dumatubun Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2021-11-04 0901Z",
+    "Coordinates": "S5°39.70' / E132°43.80'",
+    "Elevation": "40.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "4265 x 98 feet / 1300 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S5°39.68' / E132°43.53'",
+            "Elevation": "10",
+            "RunwayHeading": "089°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S5°39.71' / E132°44.24'",
+            "Elevation": "10",
+            "RunwayHeading": "269°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPK",
+    "Name": "Benjina Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°3.77' / E134°16.62'",
+    "Elevation": "82.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "4265 x 59 feet / 1300 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S6°4.24' / E134°16.20'",
+            "Elevation": "82",
+            "RunwayHeading": "038°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S6°3.71' / E134°16.67'",
+            "Elevation": "82",
+            "RunwayHeading": "218°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPG",
+    "Name": "South Buru Island / Namrole Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°51.17' / E126°42.15'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPF",
+    "Name": "Langgur / Karel Sadsuitubun Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°45.45' / E132°45.68'",
+    "Elevation": "109.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "7710 x 148 feet / 2350 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S5°45.08' / E132°45.03'",
+            "Elevation": "102",
+            "RunwayHeading": "131°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S5°45.95' / E132°45.95'",
+            "Elevation": "109",
+            "RunwayHeading": "311°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPD",
+    "Name": "Pulau Aru / Dobo Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°46.45' / E134°12.60'",
+    "Elevation": "15.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPC",
+    "Name": "Central Maluku / Bandaneira Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°31.30' / E129°54.28'",
+    "Elevation": "94.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "2953 x 98 feet / 900 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S4°31.21' / E129°54.07'",
+            "Elevation": "94",
+            "RunwayHeading": "108°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S4°31.35' / E129°54.54'",
+            "Elevation": "34",
+            "RunwayHeading": "288°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAPB",
+    "Name": "B U L A Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°6.65' / E130°30.65'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAPA",
+    "Name": "Pulau Seram / Amahai Airport",
+    "Province": "Maluku",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°20.77' / E128°55.63'",
+    "Elevation": "260.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2618 x 79 feet / 798 x 24 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S3°20.67' / E128°55.42'",
+            "Elevation": "256",
+            "RunwayHeading": "133°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S3°20.97' / E128°55.72'",
+            "Elevation": "259",
+            "RunwayHeading": "313°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEW",
+    "Name": "Pitu Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°3.00' / E128°19.00'",
+    "Elevation": "94.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "7874 x 98 feet / 2400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N2°2.75' / E128°18.83'",
+            "Elevation": "73",
+            "RunwayHeading": "089°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N2°2.78' / E128°20.13'",
+            "Elevation": "94",
+            "RunwayHeading": "269°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAES",
+    "Name": "Emalamo Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°5.87' / E125°57.83'",
+    "Elevation": "11.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "3609 x 75 feet / 1100 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "S2°5.71' / E125°57.97'",
+            "Elevation": "11",
+            "RunwayHeading": "179°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "S2°6.31' / E125°57.94'",
+            "Elevation": "11",
+            "RunwayHeading": "359°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEO",
+    "Name": "Falabisahaya Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°46.93' / E125°28.93'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAEM",
+    "Name": "Halmahera Island/Buli Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°55.17' / E128°22.95'",
+    "Elevation": "88.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "3927 x 75 feet / 1197 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "N0°54.97' / E128°22.70'",
+            "Elevation": "59",
+            "RunwayHeading": "073°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "N0°55.15' / E128°23.32'",
+            "Elevation": "88",
+            "RunwayHeading": "253°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEL",
+    "Name": "Labuha/Oesman Sadik Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°38.23' / E127°30.12'",
+    "Elevation": "67.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S0°38.24' / E127°29.94'",
+            "Elevation": "62",
+            "RunwayHeading": "061°",
+            "DisplacedThreshold": ""
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S0°37.87' / E127°30.60'",
+            "Elevation": "67",
+            "RunwayHeading": "241°",
+            "DisplacedThreshold": "820 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEK",
+    "Name": "Kuabang Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°11.22' / E127°53.70'",
+    "Elevation": "40.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "7874 x 98 feet / 2400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "N1°11.97' / E127°53.78'",
+            "Elevation": "40",
+            "RunwayHeading": "182°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "N1°10.67' / E127°53.74'",
+            "Elevation": "30",
+            "RunwayHeading": "002°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEH",
+    "Name": "Weda Bay Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°28.08' / E127°56.77'",
+    "Elevation": "11.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N0°28.08' / E127°56.45'",
+            "Elevation": "11",
+            "RunwayHeading": "090°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N0°28.07' / E127°57.34'",
+            "Elevation": "11",
+            "RunwayHeading": "270°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEG",
+    "Name": "Gamar Malamo Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°50.20' / E127°47.22'",
+    "Elevation": "157.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "N1°49.97' / E127°46.95'",
+            "Elevation": "157",
+            "RunwayHeading": "035°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "N1°50.60' / E127°47.39'",
+            "Elevation": "121",
+            "RunwayHeading": "215°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEE",
+    "Name": "Ternate/Sultan Babullah Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°49.87' / E127°22.82'",
+    "Elevation": "81.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "7546 x 148 feet / 2300 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "N0°50.39' / E127°22.48'",
+            "Elevation": "81",
+            "RunwayHeading": "141°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "N0°49.41' / E127°23.27'",
+            "Elevation": "61",
+            "RunwayHeading": "321°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAEB",
+    "Name": "North Halmahera / Marimoi Airport",
+    "Province": "Maluku Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°6.12' / E127°42.20'",
+    "Elevation": "114.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WADS",
+    "Name": "Sultan Muhammad Kaharuddin Airport",
+    "Province": "Nusa Tenggara Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°29.32' / E117°24.85'",
+    "Elevation": "38.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S8°28.89' / E117°24.36'",
+            "Elevation": "20",
+            "RunwayHeading": "139°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S8°29.64' / E117°24.99'",
+            "Elevation": "38",
+            "RunwayHeading": "319°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WADL",
+    "Name": "Zainuddin Abdul Madjid International Airport",
+    "Province": "Nusa Tenggara Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°45.43' / E116°16.60'",
+    "Elevation": "343.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "10827 x 148 feet / 3300 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S8°44.96' / E116°15.93'",
+            "Elevation": "307",
+            "RunwayHeading": "128°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S8°46.09' / E116°17.33'",
+            "Elevation": "343",
+            "RunwayHeading": "308°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WADB",
+    "Name": "Sultan Muhammad Salahuddin Airport",
+    "Province": "Nusa Tenggara Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°32.43' / E118°41.42'",
+    "Elevation": "7.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "7218 x 98 feet / 2200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S8°31.82' / E118°40.73'",
+            "Elevation": "7",
+            "RunwayHeading": "137°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S8°32.71' / E118°41.54'",
+            "Elevation": "4",
+            "RunwayHeading": "317°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WADA",
+    "Name": "Selaparang Airport",
+    "Province": "Nusa Tenggara Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°33.72' / E116°5.97'",
+    "Elevation": "52.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "6890 x 131 feet / 2100 x 40 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S8°33.64' / E116°5.11'",
+            "Elevation": "52",
+            "RunwayHeading": "088°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S8°33.64' / E116°6.26'",
+            "Elevation": "48",
+            "RunwayHeading": "268°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATW",
+    "Name": "Wunopito Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°21.98' / E123°26.28'",
+    "Elevation": "43.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "3937 x 98 feet / 1200 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S8°22.01' / E123°26.17'",
+            "Elevation": "43",
+            "RunwayHeading": "024°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S8°21.41' / E123°26.46'",
+            "Elevation": "30",
+            "RunwayHeading": "204°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATU",
+    "Name": "Umbu Mehang Kunda Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S9°40.08' / E120°17.93'",
+    "Elevation": "22.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "6070 x 98 feet / 1850 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S9°39.67' / E120°17.86'",
+            "Elevation": "22",
+            "RunwayHeading": "150°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S9°40.56' / E120°18.34'",
+            "Elevation": "18",
+            "RunwayHeading": "330°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATT",
+    "Name": "El Tari Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S10°10.67' / E123°39.83'",
+    "Elevation": "335.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S10°10.46' / E123°39.61'",
+            "Elevation": "335",
+            "RunwayHeading": "075°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S10°10.14' / E123°40.94'",
+            "Elevation": "335",
+            "RunwayHeading": "255°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATS",
+    "Name": "Tardamu Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S10°29.63' / E121°50.77'",
+    "Elevation": "69.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "2953 x 75 feet / 900 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S10°29.62' / E121°50.65'",
+            "Elevation": "52",
+            "RunwayHeading": "072°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S10°29.47' / E121°51.13'",
+            "Elevation": "69",
+            "RunwayHeading": "252°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATR",
+    "Name": "David Constantijn Saudale Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S10°46.02' / E123°4.45'",
+    "Elevation": "465.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S10°46.29' / E123°4.27'",
+            "Elevation": "465",
+            "RunwayHeading": "040°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S10°45.61' / E123°4.86'",
+            "Elevation": "449",
+            "RunwayHeading": "220°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATP",
+    "Name": "Alor/Pantar Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°14.75' / E124°13.12'",
+    "Elevation": "18.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "2953 x 98 feet / 900 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S8°14.90' / E124°13.05'",
+            "Elevation": "16",
+            "RunwayHeading": "029°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S8°14.47' / E124°13.27'",
+            "Elevation": "18",
+            "RunwayHeading": "209°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATO",
+    "Name": "Komodo Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°29.18' / E119°53.25'",
+    "Elevation": "228.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S8°28.34' / E119°53.24'",
+            "Elevation": "228",
+            "RunwayHeading": "171°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S8°29.55' / E119°53.41'",
+            "Elevation": "188",
+            "RunwayHeading": "351°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATM",
+    "Name": "Mali Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°8.12' / E124°35.67'",
+    "Elevation": "17.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "5253 x 98 feet / 1601 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S8°8.33' / E124°35.58'",
+            "Elevation": "17",
+            "RunwayHeading": "032°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S8°7.60' / E124°36.05'",
+            "Elevation": "16",
+            "RunwayHeading": "212°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATL",
+    "Name": "Larantuka / Gewayantana Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°16.50' / E123°0.00'",
+    "Elevation": "77.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S8°16.39' / E122°59.64'",
+            "Elevation": "77",
+            "RunwayHeading": "098°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S8°16.53' / E123°0.51'",
+            "Elevation": "19",
+            "RunwayHeading": "278°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATK",
+    "Name": "Tambolaka Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S9°24.73' / E119°14.82'",
+    "Elevation": "157.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "7546 x 148 feet / 2300 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S9°24.44' / E119°13.91'",
+            "Elevation": "153",
+            "RunwayHeading": "098°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S9°24.64' / E119°15.15'",
+            "Elevation": "157",
+            "RunwayHeading": "278°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATG",
+    "Name": "Ruteng / Frans Sales Lega Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°35.92' / E120°28.78'",
+    "Elevation": "3777.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S8°35.74' / E120°28.28'",
+            "Elevation": "3662",
+            "RunwayHeading": "092°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S8°35.79' / E120°29.10'",
+            "Elevation": "3777",
+            "RunwayHeading": "272°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATE",
+    "Name": "Haji Hasan Aroeboesman Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°50.88' / E121°39.80'",
+    "Elevation": "43.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S8°50.95' / E121°39.20'",
+            "Elevation": "43",
+            "RunwayHeading": "088°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S8°50.94' / E121°40.10'",
+            "Elevation": "19",
+            "RunwayHeading": "268°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATC",
+    "Name": "Fransiskus Xaverius Seda Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°38.25' / E122°14.22'",
+    "Elevation": "175.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "S8°38.76' / E122°13.81'",
+            "Elevation": "175",
+            "RunwayHeading": "050°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "S8°37.98' / E122°14.76'",
+            "Elevation": "29",
+            "RunwayHeading": "230°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATB",
+    "Name": "Soa Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°42.52' / E121°3.43'",
+    "Elevation": "1454.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S8°42.33' / E121°3.09'",
+            "Elevation": "1454",
+            "RunwayHeading": "108°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S8°42.61' / E121°3.92'",
+            "Elevation": "1421",
+            "RunwayHeading": "288°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WATA",
+    "Name": "A.A. Bere Tallo Airport",
+    "Province": "Nusa Tenggara Timur",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S9°4.53' / E124°54.18'",
+    "Elevation": "1009.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAYY",
+    "Name": "Mozes Kilangin Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°31.90' / E136°53.30'",
+    "Elevation": "104.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "7841 x 148 feet / 2390 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S4°31.44' / E136°52.70'",
+            "Elevation": "104",
+            "RunwayHeading": "119°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S4°32.12' / E136°53.79'",
+            "Elevation": "99",
+            "RunwayHeading": "299°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAYL",
+    "Name": "Puncak / Ilaga Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°58.63' / E137°37.22'",
+    "Elevation": "7975.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "1969 x 75 feet / 600 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S3°58.62' / E137°37.17'",
+            "Elevation": "7985",
+            "RunwayHeading": "076°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S3°58.56' / E137°37.49'",
+            "Elevation": "7904",
+            "RunwayHeading": "256°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAYK",
+    "Name": "Kokonao Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°42.68' / E136°26.17'",
+    "Elevation": "5.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "1959 x 59 feet / 597 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S4°42.53' / E136°25.99'",
+            "Elevation": "5",
+            "RunwayHeading": "133°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S4°42.76' / E136°26.22'",
+            "Elevation": "4",
+            "RunwayHeading": "313°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAYG",
+    "Name": "Mimika / Akimuga Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°36.18' / E137°39.55'",
+    "Elevation": "163.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAYE",
+    "Name": "Paniai / Enarotali Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°55.57' / E136°22.82'",
+    "Elevation": "5804.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "3248 x 59 feet / 990 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S3°55.57' / E136°22.45'",
+            "Elevation": "5804",
+            "RunwayHeading": "082°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S3°55.51' / E136°22.98'",
+            "Elevation": "5798",
+            "RunwayHeading": "262°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAYB",
+    "Name": "Bilorai Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°44.39' / E137°1.86'",
+    "Elevation": "7316.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAVV",
+    "Name": "Wamena Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°5.85' / E138°57.08'",
+    "Elevation": "5435.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "7136 x 148 feet / 2175 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S4°5.27' / E138°56.85'",
+            "Elevation": "5435",
+            "RunwayHeading": "150°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S4°6.31' / E138°57.39'",
+            "Elevation": "5428",
+            "RunwayHeading": "330°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAVD",
+    "Name": "Nop Goliat Dekai Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°51.22' / E139°29.20'",
+    "Elevation": "329.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAVC",
+    "Name": "Ilu Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°42.50' / E138°12.02'",
+    "Elevation": "6500.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "2625 x 59 feet / 800 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S3°42.11' / E138°11.99'",
+            "Elevation": "6264",
+            "RunwayHeading": "170°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S3°42.55' / E138°12.04'",
+            "Elevation": "6438",
+            "RunwayHeading": "350°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAVA",
+    "Name": "Puncak Jaya/Mulia Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°42.07' / E137°57.62'",
+    "Elevation": "5898.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "2625 x 59 feet / 800 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S3°42.14' / E137°57.23'",
+            "Elevation": "5898",
+            "RunwayHeading": "079°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S3°42.09' / E137°57.65'",
+            "Elevation": "5648",
+            "RunwayHeading": "259°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKY",
+    "Name": "Koroway Batu Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°12.83' / E140°1.40'",
+    "Elevation": "340.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "2625 x 59 feet / 800 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S5°12.46' / E140°0.96'",
+            "Elevation": "340",
+            "RunwayHeading": "159°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S5°12.87' / E140°1.09'",
+            "Elevation": "340",
+            "RunwayHeading": "339°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKT",
+    "Name": "Tanah Merah Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°5.77' / E140°18.00'",
+    "Elevation": "86.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "3465 x 75 feet / 1056 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S6°5.89' / E140°17.94'",
+            "Elevation": "76",
+            "RunwayHeading": "069°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S6°5.71' / E140°18.49'",
+            "Elevation": "86",
+            "RunwayHeading": "249°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKP",
+    "Name": "Kepi Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°32.53' / E139°19.90'",
+    "Elevation": "28.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "3937 x 75 feet / 1200 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S6°32.34' / E139°19.83'",
+            "Elevation": "28",
+            "RunwayHeading": "151°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S6°32.93' / E139°20.11'",
+            "Elevation": "20",
+            "RunwayHeading": "331°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKO",
+    "Name": "Okaba Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°5.70' / E139°43.35'",
+    "Elevation": "11.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAKM",
+    "Name": "Asmat Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°11.12' / E138°38.45'",
+    "Elevation": "33.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAKK",
+    "Name": "Mopah Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S8°31.27' / E140°25.02'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S8°30.75' / E140°24.94'",
+            "Elevation": "10",
+            "RunwayHeading": "156°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S8°32.02' / E140°25.40'",
+            "Elevation": "5",
+            "RunwayHeading": "336°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKJ",
+    "Name": "Merauke/Kimam Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°58.75' / E138°51.15'",
+    "Elevation": "23.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2133 x 59 feet / 650 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S7°58.60' / E138°51.03'",
+            "Elevation": "23",
+            "RunwayHeading": "127°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S7°58.84' / E138°51.30'",
+            "Elevation": "23",
+            "RunwayHeading": "307°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKG",
+    "Name": "Ewer Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°29.75' / E138°4.80'",
+    "Elevation": "12.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S5°29.94' / E138°4.36'",
+            "Elevation": "12",
+            "RunwayHeading": "060°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S5°29.57' / E138°5.09'",
+            "Elevation": "8",
+            "RunwayHeading": "240°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKE",
+    "Name": "Mappi / Bade Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°10.52' / E139°35.05'",
+    "Elevation": "28.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "1969 x 59 feet / 600 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S7°10.73' / E139°34.93'",
+            "Elevation": "27",
+            "RunwayHeading": "017°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S7°10.42' / E139°35.06'",
+            "Elevation": "28",
+            "RunwayHeading": "197°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAKD",
+    "Name": "Boven Digoel / Mindiptanah Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°52.75' / E140°42.52'",
+    "Elevation": "121.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "2953 x 75 feet / 900 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S5°52.46' / E140°42.52'",
+            "Elevation": "102",
+            "RunwayHeading": "160°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S5°52.93' / E140°42.66'",
+            "Elevation": "121",
+            "RunwayHeading": "340°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAJS",
+    "Name": "Senggeh Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°26.57' / E140°46.70'",
+    "Elevation": "680.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAJO",
+    "Name": "Pegunungan Bintang/Oksibil Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°54.43' / E140°37.82'",
+    "Elevation": "4284.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "4442 x 98 feet / 1354 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S4°54.29' / E140°37.36'",
+            "Elevation": "4284",
+            "RunwayHeading": "111°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S4°54.59' / E140°38.02'",
+            "Elevation": "4249",
+            "RunwayHeading": "291°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAJK",
+    "Name": "Kiwirok Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°42.80' / E140°44.37'",
+    "Elevation": "5446.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 07/25",
+        "Dimensions": "1640 x 59 feet / 500 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 07",
+            "Coordinates": "S4°42.84' / E140°44.31'",
+            "Elevation": "5429",
+            "RunwayHeading": "067°"
+          },
+          {
+            "Path": "Runway 25",
+            "Coordinates": "S4°42.76' / E140°44.57'",
+            "Elevation": "5226",
+            "RunwayHeading": "247°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAJJ",
+    "Name": "Sentani Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°34.32' / E140°30.70'",
+    "Elevation": "289.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S2°34.27' / E140°30.52'",
+            "Elevation": "289",
+            "RunwayHeading": "124°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S2°35.24' / E140°31.81'",
+            "Elevation": "268",
+            "RunwayHeading": "304°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAJI",
+    "Name": "Sarmi / Mararena Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°52.48' / E138°45.27'",
+    "Elevation": "12.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "2454 x 75 feet / 748 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S1°52.26' / E138°45.08'",
+            "Elevation": "12",
+            "RunwayHeading": "133°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S1°52.55' / E138°45.37'",
+            "Elevation": "12",
+            "RunwayHeading": "313°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAJG",
+    "Name": "Pegunungan Bintang / Batom Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°26.65' / E140°52.90'",
+    "Elevation": "354.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAJD",
+    "Name": "Wakde Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°56.00' / E139°1.00'",
+    "Elevation": "10.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WABS",
+    "Name": "Puncak / Sinak Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°49.32' / E137°50.28'",
+    "Elevation": "7299.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "3609 x 75 feet / 1100 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S3°49.04' / E137°50.29'",
+            "Elevation": "7290",
+            "RunwayHeading": "165°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S3°49.62' / E137°50.42'",
+            "Elevation": "7299",
+            "RunwayHeading": "345°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WABO",
+    "Name": "Stevanus Rumbewas Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°49.80' / E136°4.17'",
+    "Elevation": "75.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "3035 x 59 feet / 925 x 18 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S1°49.69' / E136°3.67'",
+            "Elevation": "66",
+            "RunwayHeading": "101°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S1°49.80' / E136°4.16'",
+            "Elevation": "75",
+            "RunwayHeading": "281°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WABI",
+    "Name": "Douw Aturure Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°22.08' / E135°29.83'",
+    "Elevation": "25.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "4590 x 95 feet / 1399 x 29 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S3°21.73' / E135°29.67'",
+            "Elevation": "18",
+            "RunwayHeading": "159°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S3°22.44' / E135°29.92'",
+            "Elevation": "25",
+            "RunwayHeading": "339°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WABF",
+    "Name": "Biak Numfor/Numfor Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°56.18' / E134°51.98'",
+    "Elevation": "23.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "5758 x 66 feet / 1755 x 20 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S0°56.13' / E134°51.85'",
+            "Elevation": "23",
+            "RunwayHeading": "089°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S0°56.16' / E134°52.79'",
+            "Elevation": "23",
+            "RunwayHeading": "269°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WABD",
+    "Name": "Dogiyai / Moanamani Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°0.53' / E136°2.22'",
+    "Elevation": "5113.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WABB",
+    "Name": "Biak / Frans Kaisiepo Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°11.52' / E136°6.60'",
+    "Elevation": "38.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "11713 x 148 feet / 3570 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S1°11.09' / E136°5.56'",
+            "Elevation": "38",
+            "RunwayHeading": "107°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S1°11.72' / E136°7.38'",
+            "Elevation": "27",
+            "RunwayHeading": "287°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WABA",
+    "Name": "Deiyai / Waghete Baru Airport",
+    "Province": "Papua",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°4.05' / E136°16.42'",
+    "Elevation": "1779.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIBL",
+    "Name": "Sultan Syarif Haroen Setia Neg Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°30.28' / E101°55.37'",
+    "Elevation": "95.0 feet MSL",
+    "AirportUse": "Private",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "5446 x 98 feet / 1660 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "N0°30.38' / E101°55.40'",
+            "Elevation": "95",
+            "RunwayHeading": "180°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "N0°29.48' / E101°55.41'",
+            "Elevation": "82",
+            "RunwayHeading": "000°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIBJ",
+    "Name": "Japura Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°21.10' / E102°20.07'",
+    "Elevation": "61.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 10/28",
+        "Dimensions": "4265 x 98 feet / 1300 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 10",
+            "Coordinates": "S0°21.11' / E102°19.74'",
+            "Elevation": "61",
+            "RunwayHeading": "099°"
+          },
+          {
+            "Path": "Runway 28",
+            "Coordinates": "S0°21.22' / E102°20.43'",
+            "Elevation": "61",
+            "RunwayHeading": "279°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIBI",
+    "Name": "Pulai Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°12.97' / E103°9.88'",
+    "Elevation": "21.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIBG",
+    "Name": "Pasir Pangaraian Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°50.80' / E100°22.22'",
+    "Elevation": "260.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "4265 x 98 feet / 1300 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "N0°51.09' / E100°22.21'",
+            "Elevation": "260",
+            "RunwayHeading": "181°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "N0°50.38' / E100°22.20'",
+            "Elevation": "260",
+            "RunwayHeading": "001°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIBD",
+    "Name": "Dumai / Pinang Kampai Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°36.73' / E101°26.00'",
+    "Elevation": "43.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "N1°36.12' / E101°25.77'",
+            "Elevation": "42",
+            "RunwayHeading": "030°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "N1°36.97' / E101°26.26'",
+            "Elevation": "43",
+            "RunwayHeading": "210°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIBB",
+    "Name": "Sultan Syarif Kasim II Airport",
+    "Province": "Riau",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N0°27.73' / E101°26.72'",
+    "Elevation": "134.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "8530 x 148 feet / 2600 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "N0°28.26' / E101°26.69'",
+            "Elevation": "134",
+            "RunwayHeading": "182°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "N0°26.85' / E101°26.65'",
+            "Elevation": "113",
+            "RunwayHeading": "002°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFS",
+    "Name": "Sumarorong Airport",
+    "Province": "Sulawesi Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°8.87' / E119°18.20'",
+    "Elevation": "3033.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "3773 x 98 feet / 1150 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S3°8.64' / E119°18.06'",
+            "Elevation": "3027",
+            "RunwayHeading": "164°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S3°9.25' / E119°18.19'",
+            "Elevation": "3033",
+            "RunwayHeading": "347°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFJ",
+    "Name": "Mamuju / Tampa Padang Airport",
+    "Province": "Sulawesi Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°35.32' / E119°1.77'",
+    "Elevation": "8.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "6398 x 148 feet / 1950 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "S2°35.69' / E119°1.12'",
+            "Elevation": "7",
+            "RunwayHeading": "053°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "S2°35.05' / E119°1.97'",
+            "Elevation": "8",
+            "RunwayHeading": "233°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWS",
+    "Name": "Soroako Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°31.77' / E121°21.44'",
+    "Elevation": "1388.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "3382 x 62 feet / 1031 x 19 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S2°31.61' / E121°21.22'",
+            "Elevation": "1388",
+            "RunwayHeading": "123°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S2°31.93' / E121°21.67'",
+            "Elevation": "1388",
+            "RunwayHeading": "303°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWN",
+    "Name": "Bone / Arung Palakka Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°27.53' / E120°18.42'",
+    "Elevation": "131.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "3740 x 98 feet / 1140 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S4°27.46' / E120°18.33'",
+            "Elevation": "72",
+            "RunwayHeading": "110°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S4°27.68' / E120°18.90'",
+            "Elevation": "131",
+            "RunwayHeading": "290°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWH",
+    "Name": "H. Aroeppala Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S6°10.60' / E120°26.23'",
+    "Elevation": "23.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "6398 x 98 feet / 1950 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S6°10.26' / E120°26.10'",
+            "Elevation": "23",
+            "RunwayHeading": "158°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S6°11.28' / E120°26.42'",
+            "Elevation": "20",
+            "RunwayHeading": "338°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFT",
+    "Name": "Tana Toraja/Pongtiku Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2021-11-04 0901Z",
+    "Coordinates": "S3°2.57' / E119°49.28'",
+    "Elevation": "2882.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAFN",
+    "Name": "Seko Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°16.32' / E119°53.70'",
+    "Elevation": "3510.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "3120 x 75 feet / 951 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S2°16.23' / E119°53.62'",
+            "Elevation": "3521",
+            "RunwayHeading": "094°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S2°16.28' / E119°54.15'",
+            "Elevation": "3529",
+            "RunwayHeading": "274°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFM",
+    "Name": "Andi Jemma Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°33.25' / E120°19.47'",
+    "Elevation": "125.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "3510 x 98 feet / 1070 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S2°33.82' / E120°19.35'",
+            "Elevation": "115",
+            "RunwayHeading": "019°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S2°33.27' / E120°19.53'",
+            "Elevation": "125",
+            "RunwayHeading": "199°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFK",
+    "Name": "Rampi Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°7.43' / E120°17.63'",
+    "Elevation": "3220.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "3284 x 75 feet / 1001 x 23 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S2°7.44' / E120°17.63'",
+            "Elevation": "3200",
+            "RunwayHeading": "117°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S2°7.69' / E120°18.11'",
+            "Elevation": "3220",
+            "RunwayHeading": "297°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFD",
+    "Name": "Bua Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°5.07' / E120°14.70'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 17/35",
+        "Dimensions": "5413 x 98 feet / 1650 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 17",
+            "Coordinates": "S3°4.49' / E120°14.57'",
+            "Elevation": "13",
+            "RunwayHeading": "165°"
+          },
+          {
+            "Path": "Runway 35",
+            "Coordinates": "S3°5.36' / E120°14.80'",
+            "Elevation": "24",
+            "RunwayHeading": "345°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFB",
+    "Name": "Tana Toraja / Toraja Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°11.13' / E119°55.03'",
+    "Elevation": "3029.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "6562 x 98 feet / 2000 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S3°11.42' / E119°54.85'",
+            "Elevation": "3025",
+            "RunwayHeading": "039°",
+            "DisplacedThreshold": "492 Feet"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S3°10.64' / E119°55.49'",
+            "Elevation": "3017",
+            "RunwayHeading": "219°",
+            "DisplacedThreshold": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAAA",
+    "Name": "Makassar/Sultan Hasanuddin Airport",
+    "Province": "Sulawesi Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°3.65' / E119°33.27'",
+    "Elevation": "44.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "10171 x 148 feet / 3100 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S5°5.54' / E119°32.64'",
+            "Elevation": "38",
+            "RunwayHeading": "029°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S5°4.08' / E119°33.48'",
+            "Elevation": "41",
+            "RunwayHeading": "209°"
+          }
+        ]
+      },
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Unknown",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S5°3.26' / E119°32.73'",
+            "Elevation": "44",
+            "RunwayHeading": "130°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S5°4.14' / E119°33.76'",
+            "Elevation": "36",
+            "RunwayHeading": "310°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAMP",
+    "Name": "Imip Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°48.08' / E122°8.47'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "6201 x 98 feet / 1890 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S2°47.57' / E122°8.04'",
+            "Elevation": "24",
+            "RunwayHeading": "130°",
+            "DisplacedThreshold": ""
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S2°48.22' / E122°8.77'",
+            "Elevation": "24",
+            "RunwayHeading": "310°",
+            "DisplacedThreshold": "295 Feet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFY",
+    "Name": "Pogogul Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°6.32' / E121°24.93'",
+    "Elevation": "49.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAFW",
+    "Name": "Luwuk/Syukuran Aminuddin Amir Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°2.43' / E122°46.35'",
+    "Elevation": "62.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S1°2.62' / E122°46.11'",
+            "Elevation": "62",
+            "RunwayHeading": "035°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S1°1.62' / E122°46.81'",
+            "Elevation": "56",
+            "RunwayHeading": "215°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFU",
+    "Name": "Tanjung Api Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°51.83' / E121°37.50'",
+    "Elevation": "107.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "6923 x 98 feet / 2110 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "S0°51.64' / E121°37.23'",
+            "Elevation": "104",
+            "RunwayHeading": "120°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "S0°52.22' / E121°38.21'",
+            "Elevation": "102",
+            "RunwayHeading": "300°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFP",
+    "Name": "Poso/Kasiguncu Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S1°25.02' / E120°39.55'",
+    "Elevation": "21.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "6070 x 98 feet / 1850 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S1°25.27' / E120°39.28'",
+            "Elevation": "21",
+            "RunwayHeading": "033°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S1°24.42' / E120°39.83'",
+            "Elevation": "7",
+            "RunwayHeading": "213°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFO",
+    "Name": "Morowali / Morowali Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°12.13' / E121°39.70'",
+    "Elevation": "20.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "S2°12.33' / E121°39.48'",
+            "Elevation": "20",
+            "RunwayHeading": "048°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "S2°11.79' / E121°40.08'",
+            "Elevation": "15",
+            "RunwayHeading": "228°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFL",
+    "Name": "Sultan Bantilan Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°7.38' / E120°47.58'",
+    "Elevation": "17.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "N1°7.56' / E120°47.24'",
+            "Elevation": "14",
+            "RunwayHeading": "112°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "N1°7.28' / E120°47.94'",
+            "Elevation": "17",
+            "RunwayHeading": "292°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAFF",
+    "Name": "Mutiara Sis Al-Jufri Airport",
+    "Province": "Sulawesi Tengah",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°55.00' / E119°54.62'",
+    "Elevation": "288.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "7382 x 148 feet / 2250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S0°54.38' / E119°54.25'",
+            "Elevation": "288",
+            "RunwayHeading": "156°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S0°55.50' / E119°54.75'",
+            "Elevation": "224",
+            "RunwayHeading": "336°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWW",
+    "Name": "Halu Oleo Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°5.05' / E122°24.78'",
+    "Elevation": "189.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "8202 x 148 feet / 2500 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S4°5.02' / E122°24.52'",
+            "Elevation": "189",
+            "RunwayHeading": "079°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S4°4.78' / E122°25.85'",
+            "Elevation": "120",
+            "RunwayHeading": "259°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWR",
+    "Name": "Muna / Sugimanuru Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°45.72' / E122°34.20'",
+    "Elevation": "144.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 08/26",
+        "Dimensions": "5249 x 98 feet / 1600 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 08",
+            "Coordinates": "S4°45.87' / E122°33.54'",
+            "Elevation": "111",
+            "RunwayHeading": "080°"
+          },
+          {
+            "Path": "Runway 26",
+            "Coordinates": "S4°45.73' / E122°34.39'",
+            "Elevation": "144",
+            "RunwayHeading": "260°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWP",
+    "Name": "Kolaka / Sangia Nibandera Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°20.70' / E121°31.33'",
+    "Elevation": "40.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "6070 x 98 feet / 1850 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "S4°19.76' / E121°31.47'",
+            "Elevation": "38",
+            "RunwayHeading": "182°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "S4°20.76' / E121°31.42'",
+            "Elevation": "40",
+            "RunwayHeading": "002°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWD",
+    "Name": "Wakatobi/Matahora Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°17.43' / E123°38.17'",
+    "Elevation": "77.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 14/32",
+        "Dimensions": "6562 x 148 feet / 2000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 14",
+            "Coordinates": "S5°17.11' / E123°37.84'",
+            "Elevation": "77",
+            "RunwayHeading": "140°"
+          },
+          {
+            "Path": "Runway 32",
+            "Coordinates": "S5°17.95' / E123°38.52'",
+            "Elevation": "63",
+            "RunwayHeading": "320°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWC",
+    "Name": "Tomia / Maranggo Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°46.03' / E123°55.13'",
+    "Elevation": "76.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 13/31",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 13",
+            "Coordinates": "S5°45.71' / E123°54.82'",
+            "Elevation": "76",
+            "RunwayHeading": "131°"
+          },
+          {
+            "Path": "Runway 31",
+            "Coordinates": "S5°46.25' / E123°55.42'",
+            "Elevation": "47",
+            "RunwayHeading": "311°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWB",
+    "Name": "Betoambari Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S5°29.22' / E122°34.17'",
+    "Elevation": "105.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 04/22",
+        "Dimensions": "5906 x 98 feet / 1800 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 04",
+            "Coordinates": "S5°29.53' / E122°33.87'",
+            "Elevation": "105",
+            "RunwayHeading": "039°"
+          },
+          {
+            "Path": "Runway 22",
+            "Coordinates": "S5°28.79' / E122°34.51'",
+            "Elevation": "105",
+            "RunwayHeading": "219°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAWA",
+    "Name": "Kolaka / Pomala Airport",
+    "Province": "Sulawesi Tenggara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°18.00' / E121°36.00'",
+    "Elevation": "98.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAMS",
+    "Name": "Miangas Airport",
+    "Province": "Sulawesi Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N5°33.37' / E126°34.60'",
+    "Elevation": "9.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "N5°33.28' / E126°34.61'",
+            "Elevation": "9",
+            "RunwayHeading": "029°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "N5°33.94' / E126°34.98'",
+            "Elevation": "9",
+            "RunwayHeading": "209°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAMO",
+    "Name": "Siau/Sitaro Airport",
+    "Province": "Sulawesi Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°39.18' / E125°25.48'",
+    "Elevation": "155.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAMN",
+    "Name": "Melonguane Airport",
+    "Province": "Sulawesi Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N4°0.37' / E126°40.48'",
+    "Elevation": "13.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WAMM",
+    "Name": "Manado / Sam Ratulangi Airport",
+    "Province": "Sulawesi Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°32.73' / E124°55.50'",
+    "Elevation": "328.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 18/36",
+        "Dimensions": "8694 x 148 feet / 2650 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 18",
+            "Coordinates": "N1°33.68' / E124°55.60'",
+            "Elevation": "328",
+            "RunwayHeading": "182°"
+          },
+          {
+            "Path": "Runway 36",
+            "Coordinates": "N1°32.24' / E124°55.56'",
+            "Elevation": "328",
+            "RunwayHeading": "002°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAMH",
+    "Name": "Naha Airport",
+    "Province": "Sulawesi Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°41.13' / E125°31.75'",
+    "Elevation": "63.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "4921 x 98 feet / 1500 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "N3°41.45' / E125°31.43'",
+            "Elevation": "63",
+            "RunwayHeading": "150°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "N3°40.73' / E125°31.84'",
+            "Elevation": "39",
+            "RunwayHeading": "330°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMG",
+    "Name": "Padang Tabing Airport",
+    "Province": "Sumatera Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°52.53' / E100°21.03'",
+    "Elevation": "9.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 16/34",
+        "Dimensions": "7054 x 148 feet / 2150 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 16",
+            "Coordinates": "S0°51.99' / E100°20.94'",
+            "Elevation": "9",
+            "RunwayHeading": "159°"
+          },
+          {
+            "Path": "Runway 34",
+            "Coordinates": "S0°53.05' / E100°21.32'",
+            "Elevation": "9",
+            "RunwayHeading": "339°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIEE",
+    "Name": "Minangkabau Airport",
+    "Province": "Sumatera Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°47.30' / E100°17.18'",
+    "Elevation": "18.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 15/33",
+        "Dimensions": "9022 x 148 feet / 2750 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 15",
+            "Coordinates": "S0°46.54' / E100°16.54'",
+            "Elevation": "18",
+            "RunwayHeading": "155°"
+          },
+          {
+            "Path": "Runway 33",
+            "Coordinates": "S0°47.89' / E100°17.16'",
+            "Elevation": "16",
+            "RunwayHeading": "335°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIEB",
+    "Name": "Rokot Airport",
+    "Province": "Sumatera Barat",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°5.83' / E99°42.23'",
+    "Elevation": "5.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIPY",
+    "Name": "Atung Bungsu Airport",
+    "Province": "Sumatera Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°1.48' / E103°22.72'",
+    "Elevation": "2093.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "4396 x 98 feet / 1340 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S4°1.54' / E103°22.42'",
+            "Elevation": "2093",
+            "RunwayHeading": "060°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S4°1.18' / E103°23.05'",
+            "Elevation": "1978",
+            "RunwayHeading": "240°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIPQ",
+    "Name": "Pendopo Airport",
+    "Province": "Sumatera Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°17.17' / E103°52.78'",
+    "Elevation": "184.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 03/21",
+        "Dimensions": "4265 x 66 feet / 1300 x 20 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 03",
+            "Coordinates": "S3°17.46' / E103°52.59'",
+            "Elevation": "184",
+            "RunwayHeading": "032°"
+          },
+          {
+            "Path": "Runway 21",
+            "Coordinates": "S3°16.86' / E103°52.96'",
+            "Elevation": "184",
+            "RunwayHeading": "212°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIPP",
+    "Name": "Sultan Mahmud Badaruddin II Airport",
+    "Province": "Sumatera Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S2°54.02' / E104°42.00'",
+    "Elevation": "49.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "9843 x 148 feet / 3000 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S2°53.53' / E104°41.12'",
+            "Elevation": "49",
+            "RunwayHeading": "113°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S2°54.16' / E104°42.62'",
+            "Elevation": "39",
+            "RunwayHeading": "293°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIPM",
+    "Name": "Pagar Alam Airport",
+    "Province": "Sumatera Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S4°1.48' / E103°22.72'",
+    "Elevation": "2093.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "4396 x 98 feet / 1340 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S4°1.54' / E103°22.42'",
+            "Elevation": "2093",
+            "RunwayHeading": "060°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S4°1.18' / E103°23.05'",
+            "Elevation": "1978",
+            "RunwayHeading": "240°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIPB",
+    "Name": "Silampari Airport",
+    "Province": "Sumatera Selatan",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S3°17.05' / E102°54.85'",
+    "Elevation": "325.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 02/20",
+        "Dimensions": "7283 x 148 feet / 2220 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 02",
+            "Coordinates": "S3°17.83' / E102°54.69'",
+            "Elevation": "325",
+            "RunwayHeading": "018°"
+          },
+          {
+            "Path": "Runway 20",
+            "Coordinates": "S3°16.69' / E102°55.06'",
+            "Elevation": "316",
+            "RunwayHeading": "198°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMS",
+    "Name": "Central Tapanuli/Dr Ferdinand Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°33.22' / E98°53.63'",
+    "Elevation": "42.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 12/30",
+        "Dimensions": "7185 x 98 feet / 2190 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 12",
+            "Coordinates": "N1°33.78' / E98°52.71'",
+            "Elevation": "33",
+            "RunwayHeading": "124°"
+          },
+          {
+            "Path": "Runway 30",
+            "Coordinates": "N1°33.11' / E98°53.69'",
+            "Elevation": "42",
+            "RunwayHeading": "304°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMP",
+    "Name": "Sibisa Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°36.08' / E98°57.77'",
+    "Elevation": "4164.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIMO",
+    "Name": "Nias Selatan / Lasondre Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S0°1.18' / E98°18.05'",
+    "Elevation": "7.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 06/24",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 06",
+            "Coordinates": "S0°1.27' / E98°17.73'",
+            "Elevation": "7",
+            "RunwayHeading": "065°"
+          },
+          {
+            "Path": "Runway 24",
+            "Coordinates": "S0°0.95' / E98°18.41'",
+            "Elevation": "7",
+            "RunwayHeading": "245°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMN",
+    "Name": "Raja Sisingamangaraja Xii Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N2°15.67' / E98°59.68'",
+    "Elevation": "4721.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "8694 x 148 feet / 2650 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N2°15.61' / E98°58.46'",
+            "Elevation": "4721",
+            "RunwayHeading": "093°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N2°15.55' / E98°59.89'",
+            "Elevation": "4631",
+            "RunwayHeading": "273°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMM",
+    "Name": "Deli Serdang / Kualanamu International Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°38.53' / E98°53.12'",
+    "Elevation": "23.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 05/23",
+        "Dimensions": "12303 x 197 feet / 3750 x 60 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 05",
+            "Coordinates": "N3°37.55' / E98°51.52'",
+            "Elevation": "23",
+            "RunwayHeading": "045°"
+          },
+          {
+            "Path": "Runway 23",
+            "Coordinates": "N3°38.99' / E98°52.95'",
+            "Elevation": "20",
+            "RunwayHeading": "225°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMK",
+    "Name": "Medan/Polonia Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N3°33.55' / E98°40.27'",
+    "Elevation": "90.0 feet MSL",
+    "AirportUse": "Open to the Public"
+  },
+  {
+    "ICAO": "WIME",
+    "Name": "Aek Godang Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°23.93' / E99°25.83'",
+    "Elevation": "952.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "4593 x 98 feet / 1400 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "N1°24.15' / E99°25.48'",
+            "Elevation": "952",
+            "RunwayHeading": "113°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "N1°23.86' / E99°26.18'",
+            "Elevation": "930",
+            "RunwayHeading": "293°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WIMB",
+    "Name": "Binaka Airport",
+    "Province": "Sumatera Utara",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "N1°9.93' / E97°42.37'",
+    "Elevation": "28.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "7382 x 98 feet / 2250 x 30 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "N1°10.00' / E97°41.78'",
+            "Elevation": "28",
+            "RunwayHeading": "093°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "N1°9.95' / E97°42.99'",
+            "Elevation": "12",
+            "RunwayHeading": "273°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHI",
+    "Name": "Internasional Yogyakarta Airport",
+    "Province": "Yogyakarta",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°54.25' / E110°3.45'",
+    "Elevation": "24.0 feet MSL",
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Name": "Runway 11/29",
+        "Dimensions": "10663 x 148 feet / 3250 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 11",
+            "Coordinates": "S7°54.02' / E110°2.60'",
+            "Elevation": "24",
+            "RunwayHeading": "109°"
+          },
+          {
+            "Path": "Runway 29",
+            "Coordinates": "S7°54.62' / E110°4.27'",
+            "Elevation": "24",
+            "RunwayHeading": "289°"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "ICAO": "WAHH",
+    "Name": "Adisutjipto Airport",
+    "Province": "Yogyakarta",
+    "Source": "ARINC Data Effective 2023-10-05 0901Z",
+    "Coordinates": "S7°47.20' / E110°25.92'",
+    "Elevation": "379.0 feet MSL",
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Name": "Runway 09/27",
+        "Dimensions": "7218 x 148 feet / 2200 x 45 meters",
+        "Surface": "Hard",
+        "Details": [
+          {
+            "Path": "Runway 09",
+            "Coordinates": "S7°47.31' / E110°25.32'",
+            "Elevation": "374",
+            "RunwayHeading": "087°"
+          },
+          {
+            "Path": "Runway 27",
+            "Coordinates": "S7°47.27' / E110°26.52'",
+            "Elevation": "379",
+            "RunwayHeading": "267°"
+          }
+        ]
+      }
+    ]
+  }
+]
