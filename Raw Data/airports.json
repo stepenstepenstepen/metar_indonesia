@@ -66,7 +66,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N5°4.38' / E97°15.32'",
     "Elevation": "28.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WITK",
@@ -135,7 +140,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°23.23' / E97°52.17'",
     "Elevation": "296.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Unknown"
+      }
+    ]
   },
   {
     "ICAO": "WIMT",
@@ -234,7 +244,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S8°8.42' / E114°37.30'",
     "Elevation": "16.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WADD",
@@ -1052,7 +1067,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S5°38.67' / E106°33.75'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WIHC",
@@ -1091,7 +1111,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S1°8.00' / E102°9.00'",
     "Elevation": "138.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WIJJ",
@@ -1190,7 +1215,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S6°31.88' / E107°39.57'",
     "Elevation": "361.0 feet MSL",
-    "AirportUse": "Military"
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WIHJ",
@@ -1199,7 +1229,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S6°32.65' / E106°45.25'",
     "Elevation": "538.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WICN",
@@ -1238,7 +1273,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S7°20.53' / E108°14.90'",
     "Elevation": "1110.0 feet MSL",
-    "AirportUse": "Military"
+    "AirportUse": "Military",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WICK",
@@ -1247,7 +1287,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S6°58.45' / E107°34.35'",
     "Elevation": "2200.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WICD",
@@ -1376,7 +1421,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S5°48.07' / E110°28.67'",
     "Elevation": "15.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAHS",
@@ -1595,7 +1645,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S6°57.40' / E115°55.95'",
     "Elevation": "13.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WARI",
@@ -1895,7 +1950,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S1°5.05' / E109°41.70'",
     "Elevation": "55.0 feet MSL",
-    "AirportUse": "Private"
+    "AirportUse": "Private",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WIOG",
@@ -1904,7 +1964,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S0°20.88' / E111°45.02'",
     "Elevation": "132.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAOO",
@@ -2065,7 +2130,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S0°41.35' / E114°26.70'",
     "Elevation": "442.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Unknown"
+      }
+    ]
   },
   {
     "ICAO": "WAGM",
@@ -2074,7 +2144,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S1°40.15' / E114°53.63'",
     "Elevation": "23.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAGK",
@@ -2323,7 +2398,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°34.62' / E116°37.05'",
     "Elevation": "24.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAQL",
@@ -2332,7 +2412,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N1°42.33' / E114°58.28'",
     "Elevation": "2437.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAQK",
@@ -2341,7 +2426,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N2°0.30' / E117°44.52'",
     "Elevation": "47.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAQJ",
@@ -2350,7 +2440,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°53.00' / E115°42.00'",
     "Elevation": "2540.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAQD",
@@ -2449,7 +2544,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S0°5.53' / E117°26.38'",
     "Elevation": "121.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WALS",
@@ -2608,7 +2708,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N0°7.17' / E117°28.48'",
     "Elevation": "13.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WALB",
@@ -2707,7 +2812,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°54.37' / E108°23.28'",
     "Elevation": "7.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIDN",
@@ -2748,7 +2858,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°20.82' / E106°15.50'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIDL",
@@ -2757,7 +2872,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N2°57.77' / E105°44.98'",
     "Elevation": "13.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIDD",
@@ -2796,7 +2916,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N0°58.53' / E107°33.70'",
     "Elevation": "19.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIPO",
@@ -2865,7 +2990,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°36.68' / E105°13.93'",
     "Elevation": "63.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WILL",
@@ -2934,7 +3064,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S3°27.80' / E130°47.27'",
     "Elevation": "19.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAPS",
@@ -3003,7 +3138,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S7°7.68' / E131°46.02'",
     "Elevation": "42.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAPN",
@@ -3042,7 +3182,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S8°8.35' / E127°54.20'",
     "Elevation": "24.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAPL",
@@ -3111,7 +3256,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S3°51.17' / E126°42.15'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAPF",
@@ -3150,7 +3300,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S5°46.45' / E134°12.60'",
     "Elevation": "15.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAPC",
@@ -3189,7 +3344,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S3°6.65' / E130°30.65'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WAPA",
@@ -3288,7 +3448,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S1°46.93' / E125°28.93'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WAEM",
@@ -3479,7 +3644,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N1°6.12' / E127°42.20'",
     "Elevation": "114.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WADS",
@@ -4028,7 +4198,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S9°4.53' / E124°54.18'",
     "Elevation": "1009.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAYY",
@@ -4127,7 +4302,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°36.18' / E137°39.55'",
     "Elevation": "163.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAYE",
@@ -4166,7 +4346,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S3°44.39' / E137°1.86'",
     "Elevation": "7316.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAVV",
@@ -4205,7 +4390,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°51.22' / E139°29.20'",
     "Elevation": "329.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAVC",
@@ -4364,7 +4554,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S8°5.70' / E139°43.35'",
     "Elevation": "11.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAKM",
@@ -4373,7 +4568,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S6°11.12' / E138°38.45'",
     "Elevation": "33.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAKK",
@@ -4532,7 +4732,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S3°26.57' / E140°46.70'",
     "Elevation": "680.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAJO",
@@ -4661,7 +4866,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°26.65' / E140°52.90'",
     "Elevation": "354.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAJD",
@@ -4670,7 +4880,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S1°56.00' / E139°1.00'",
     "Elevation": "10.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WABS",
@@ -4799,7 +5014,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°0.53' / E136°2.22'",
     "Elevation": "5113.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WABB",
@@ -4838,7 +5058,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°4.05' / E136°16.42'",
     "Elevation": "1779.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIBL",
@@ -4907,7 +5132,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N0°12.97' / E103°9.88'",
     "Elevation": "21.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Unknown"
+      }
+    ]
   },
   {
     "ICAO": "WIBG",
@@ -5156,7 +5386,12 @@
     "Source": "ARINC Data Effective 2021-11-04 0901Z",
     "Coordinates": "S3°2.57' / E119°49.28'",
     "Elevation": "2882.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAFN",
@@ -5398,7 +5633,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N1°6.32' / E121°24.93'",
     "Elevation": "49.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAFW",
@@ -5767,7 +6007,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S4°18.00' / E121°36.00'",
     "Elevation": "98.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Soft"
+      }
+    ]
   },
   {
     "ICAO": "WAMS",
@@ -5806,7 +6051,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N2°39.18' / E125°25.48'",
     "Elevation": "155.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAMN",
@@ -5815,7 +6065,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N4°0.37' / E126°40.48'",
     "Elevation": "13.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WAMM",
@@ -5944,7 +6199,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "S2°5.83' / E99°42.23'",
     "Elevation": "5.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIPY",
@@ -6133,7 +6393,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N2°36.08' / E98°57.77'",
     "Elevation": "4164.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIMO",
@@ -6232,7 +6497,12 @@
     "Source": "ARINC Data Effective 2023-10-05 0901Z",
     "Coordinates": "N3°33.55' / E98°40.27'",
     "Elevation": "90.0 feet MSL",
-    "AirportUse": "Open to the Public"
+    "AirportUse": "Open to the Public",
+    "Runway": [
+      {
+        "Surface": "Hard"
+      }
+    ]
   },
   {
     "ICAO": "WIME",
