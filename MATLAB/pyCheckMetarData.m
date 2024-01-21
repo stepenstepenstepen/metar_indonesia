@@ -1,4 +1,4 @@
-function metarStr = pyGetMetarData(airportIcao,dateStart,dateEnd)
+function nData = pyCheckMetarData(airportIcao,dateStart,dateEnd)
 
 %% Declaring constants and default input argument
 %Checking whether this m-file is run as script (for debugging) or function
@@ -38,8 +38,9 @@ RQ_PARAM_DEFAULT = py.dict(pyargs(RQ_PARAM_VARKEY{1}, 'WXXX',...
                                   'um', '59',...
                                   'f', 'raw_format',...
                                   RQ_PARAM_VARKEY{4},'0'));
-DEFAULT_AIRPORT  = 'WIII';
-DEFAULT_TIME     = datetime('now','TimeZone','UTC');
+DEFAULT_AIRPORT  = 'WAFB';
+DEFAULT_DATE_ST  = datetime(2010,01,01);
+DEFAULT_DATE_END = datetime('now','TimeZone','UTC');
 FORMAT_DATESTR   = 'dd/mm/yyyy';
 %Processing input arguments based what the m-file is run as
 if ~isRunAsScript
@@ -51,14 +52,14 @@ if ~isRunAsScript
 %             errorStruct.identifier = 'MATLAB:minrhs';
 %             error(errorStruct);
             airportIcao = DEFAULT_AIRPORT;
-            dateStart   = dateshift(DEFAULT_TIME,'start','day');
-            dateEnd     = DEFAULT_TIME;
+            dateStart   = DEFAULT_DATE_ST;
+            dateEnd     = DEFAULT_DATE_END;
         case 1
-            dateStart = dateshift(DEFAULT_TIME,'start','day');
-            dateEnd   = DEFAULT_TIME;
+            dateStart = DEFAULT_DATE_ST;
+            dateEnd   = DEFAULT_DATE_END;
         case 2
             dateStart = dateshift(dateStart,'start','day');
-            dateEnd   = dateStart;
+            dateEnd   = DEFAULT_DATE_END;
         case 3
             dateStart = dateshift(dateStart,'start','day');
             dateEnd   = dateshift(dateEnd,'start','day');
@@ -89,8 +90,8 @@ if ~isRunAsScript
 else
     %Assigning default inputs (script)
     airportIcao = DEFAULT_AIRPORT;
-    dateStart   = dateshift(DEFAULT_TIME,'start','day');
-    dateEnd     = DEFAULT_TIME;
+    dateStart   = DEFAULT_DATE_ST;
+    dateEnd     = DEFAULT_DATE_END;
 end
 
 %% Preparing session for data extraction
@@ -116,26 +117,17 @@ if ~exist('metarWebSession','var')
     assignin('base','metarWebSession',metarWebSession);
 end
 
-%% Performing iteration to extract METAR data daily
-%Preallocating cell for data collection
-metarStr = cell(0,1);
-%Getting METAR data for each single day
-dateCursor = dateStart;
-while dateCursor <= dateEnd
-    %Displaying data retrieval progress
-    disp(['Reading METAR for ',airportIcao,' at ',datestr(dateCursor)]);
-    %Marking the start of iteration timer
-    tic;
-    %Updating request parameters
+%% Performing one big request to check for available METAR data
+%Updating request parameters
     rqParam = RQ_PARAM_DEFAULT;
     update(rqParam,...
            py.dict(pyargs(RQ_PARAM_VARKEY{1},airportIcao)));
     update(rqParam,...
            py.dict(pyargs(RQ_PARAM_VARKEY{2},...
-                          datestr(dateCursor,FORMAT_DATESTR))));
+                          datestr(dateStart,FORMAT_DATESTR))));
     update(rqParam,...
            py.dict(pyargs(RQ_PARAM_VARKEY{3},...
-                          datestr(dateCursor,FORMAT_DATESTR))));
+                          datestr(dateEnd,FORMAT_DATESTR))));
 	update(rqParam,...
            py.dict(pyargs(RQ_PARAM_VARKEY{4},...
                           0)));
@@ -149,45 +141,7 @@ while dateCursor <= dateEnd
                             '</span>'],...
                            'tokens');
     nPage         = count(htmlOut,'<option value="/web/metar')/2;
-    %Converting nested cell to single layer cell & appending date text
-    for id = 1:numel(dataTempFirst)
-        dataTempFirst{id} = dataTempFirst{id}{1};
-    end
-    dataTempFirst = strrep(...
-                        strcat(datestr(dateCursor),'<br>',...
-                               dataTempFirst),...
-                        '<br>',' ');
-    %Anticipating multiple page output
-    for id_page = nPage:-1:2
-        %Updating request parameters for multiple page output
-        update(rqParam,...
-               py.dict(pyargs(RQ_PARAM_VARKEY{4},...
-                              num2str(id_page-1))));
-        %Sending HTML request to get METAR data
-        response = get(metarWebSession,WEB_ADDRESS,...
-                       pyargs('params',rqParam));
-        htmlOut  = char(response.content);
-        %Parsing HTML output
-        dataTemp = regexp(htmlOut,...
-                          ['<span class="data_text">',...
-                           '(?<target>.*?)',...
-                           '</span>'],...
-                          'tokens');
-        %Converting nested cell to single layer cell & appending date text
-        for id = 1:numel(dataTemp)
-            dataTemp{id} = dataTemp{id}{1};
-        end
-        dataTemp = strrep(strcat(datestr(dateCursor),'<br>',dataTemp),...
-                          '<br>',' ');
-        %Appending data collection cell
-        metarStr = [metarStr;dataTemp(end:-1:1)'];
-    end
-    %Advancing iteration variable
-    dateCursor = dateCursor + days(1);
-    %Appending the first data to data collection cell
-    metarStr = [metarStr;dataTempFirst(end:-1:1)'];
-    %Marking the start of iteration timer
-    toc;
-end
+    %Calculating available data count
+    nData = numel(dataTempFirst) + (nPage*25);
 
 end
